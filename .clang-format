@@ -1,0 +1,2 @@
+# Same as clang-format's default, which .github/workflows/format.yml already enforces.
+BasedOnStyle: LLVM
